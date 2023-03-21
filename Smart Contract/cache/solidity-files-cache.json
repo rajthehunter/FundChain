@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/kanakalasivasankar/Desktop/FundChain/web3/contracts/FundChain.sol": {
+      "lastModificationDate": 1679248187311,
+      "contentHash": "81a1be0c8fcf66a3c4f20130b254b19a",
+      "sourceName": "contracts/FundChain.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "FundChain"
+      ]
+    }
+  }
+}
